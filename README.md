@@ -3,7 +3,7 @@
 
 
 
-# Ag_Design <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  alt="CSS" width="70" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="70" height="60" />
+# Sucesso do Design <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  alt="CSS" width="70" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="70" height="60" />
           
       
 
@@ -15,7 +15,9 @@
 
 ![vscode badge](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)
 
-[![MgNews](https://github.com/martageraldo/landingpag/blob/main/landing%20page%20animada/pag1.jpg?raw=true)](https://martageraldo.github.io/landingpag/)
+<img src="https://raw.githubusercontent.com/martageraldo/Ag_Design/28deffabd74c665aa5bfb83c134186c3b2ec1e56/sucesso%20do%20design/prototipo.svg" alt="prototipohtmlecss" width="500"/>
+
+![Demo](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)
 
 
 
